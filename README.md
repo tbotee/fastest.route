@@ -1,5 +1,6 @@
 # fastest.route
-Return the shortest path for each airline between 2 airports.
+Return the shortest path for each transport provider between 2 cities. 
+Returns also the shortest path if you can switch transport provider at nodes.
 
 Requirements:
   1. Get newest jdk from: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
