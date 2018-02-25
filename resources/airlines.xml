@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<airlines>
+	<airline>
+		<id>LH</id>
+		<name>Lufthansa</name>
+	</airline>
+	<airline>
+		<id>KLM</id>
+		<name>KLM Royal Dutch Airlines</name>
+	</airline>
+	<airline>
+		<id>WIZZ</id>
+		<name>Wizz Air</name>
+	</airline>
+</airlines>

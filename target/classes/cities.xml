@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cities>
+	<city>
+		<id>MUC</id>
+		<name>Munich</name>
+		<population>100</population>
+	</city>
+	<city>
+		<id>HAA</id>
+		<name>Hasvik</name>
+		<population>50</population>
+	</city>
+	<city>
+		<id>CAA</id>
+		<name>Catacamas</name>
+		<population>43</population>
+	</city>
+	<city>
+		<id>CAB</id>
+		<name>Cabina</name>
+		<population>65</population>
+	</city>
+	<city>
+		<id>EAA</id>
+		<name>Eagle</name>
+		<population>35</population>
+	</city>
+	<city>
+		<id>LAB</id>
+		<name>Lab Lab Mission</name>
+		<population>20</population>
+	</city>
+	<city>
+		<id>NAA</id>
+		<name>Narrabri</name>
+		<population>34</population>
+	</city>
+</cities>
