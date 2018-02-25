@@ -1,7 +1,7 @@
 # fastest.route
 Return the path and time for each transport provider between 2 cities. The shortest path is calculated by the distance between the bodes.
 
-The shortes path can be calculated using time instead of distance between nodes whith a small change in the code.
+The shortes path can be calculated using time instead of distance between nodes with a small change in the code.
 
 Returns also the shortest path if you can switch transport provider at nodes.
 
